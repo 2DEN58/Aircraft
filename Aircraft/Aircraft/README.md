@@ -1,2 +1,0 @@
-# Aircraft
-Prototype project
